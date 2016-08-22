@@ -1,2 +1,2 @@
-# ElectionSystem
-Using MVC Framework
+# ElectionSystem (BETA)
+Using Laravel Framework
